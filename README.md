@@ -3,6 +3,13 @@
 
 You can grow out of a fixed mindset by always putting in the effort and perseverance. No matter what point you start at, putting in the work will make you grow.
 
+## How to stay in a growth mindset?
+
+1. When facing a challenge, rather than being scared and avoiding the issue, you should embrace it and don't give up.
+2. Stay persistent. At each obstacle you face, rather than avoiding and losing focus, persist.
+3. Take on board all criticism, don't ignore it. It will help you to keep growing your mind.
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
