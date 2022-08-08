@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+# Growth Mindset
+## What is a growth mindset?
 
-You can use the [editor on GitHub](https://github.com/JDoy99/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can grow out of a fixed mindset by always putting in the effort and perseverance. No matter what point you start at, putting in the work will make you grow.
 
 ### Markdown
 
