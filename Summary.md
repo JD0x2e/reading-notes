@@ -4,6 +4,10 @@ Here is a summary of what topics I have learned today:
 
 This is the biggest heading size, equivalent of a h1
 
+* 1
+* 3
+* 2
+
 
 ## Heading level 2
 
