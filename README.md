@@ -1,4 +1,4 @@
-# **Bold** Growth Mindset
+# Growth Mindset
 ## What is a growth mindset?
 
 You can grow out of a fixed mindset by always putting in the effort and perseverance. No matter what point you start at, putting in the work will make you grow.
