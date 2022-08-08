@@ -21,7 +21,8 @@ You can grow out of a fixed mindset by always putting in the **effort** and **pe
 
 
 ```markdown
-This page is just the beginning of my reading notes, I will expand it further each time I learn something new.
+This page is just the beginning of my reading notes!
+It will get expanded further as I learn more.
 ```
 ```
 My contact info:
