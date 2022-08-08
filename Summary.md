@@ -11,18 +11,20 @@ This is the second biggest heading size, equivalent of a h2
 
 As we add more #, it decreases the size of the header, all the way up to ###### (h6)
 
-We can use **bold text** for making our text appear bold
+We can use **bold** for making our text appear bold
 
-We learned that we can use *italicized text* format for doing the italicized stuff done
+We also learned that to we can _italicize_ text to make it appear italic
 
-Its interesting to know that we can do the lists using the following format:
+There is also different versions of lists which we can use depending on the format we want:
 
-1. First list item 
-2. Second list item
-3. Third list item
+This format below is for an ordered list, if we want to use that, you use a 1. ;
 
-Its also interseting to know that we can even use unordered lists by following the above rules:
+1. First
+2. Second
+3. Third
 
-- First list item
-- Second list item
-- Third list item
+The format below is for an unordered list, if we want to use that, you use a - ;
+
+- First
+- Second
+- Third
