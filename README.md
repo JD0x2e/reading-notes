@@ -1,7 +1,8 @@
 # Welcome to my page
 Hi, my name is Jack and I absolutely love Web3. I am completely invested in the space, why is why I would love to start software development.
 
-![Me](https://user-images.githubusercontent.com/103535732/183409817-c380b5f9-b693-4563-976b-c686fe7ee767.jpeg | width=100)
+![IMG_0121](https://user-images.githubusercontent.com/103535732/183411239-d44ea509-581c-4484-aa79-40942dbabcbe.jpeg)
+
 
 ## Growth Mindset
 ### What is a growth mindset?
