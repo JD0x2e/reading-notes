@@ -44,8 +44,10 @@ This would then create a new directory called 'New Folder'
 
 # ACP 
 
-- Add
-- Commit 
-- Push
+- Add: Add a file to the repository by using command, 'git add .'
+- Commit: Commit your changes (save) by using command, 'git commit'
+- Push: Push your changes onto the branch specfic, 'git push'
+
+If you need to check your branch then you can use the command, 'git branch'
 
 These are the 3 stages of workflow, first you add a new file, then you commit (save), then you push it onto the main when you are completely finished.
