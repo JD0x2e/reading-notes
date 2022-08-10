@@ -32,3 +32,11 @@ The format below is for an unordered list, if we want to use that, you use a - ;
 - First
 - Second
 - Third
+
+## Images
+
+![Title](url)
+
+## Links
+
+My favorite search engine is [Google](https://google.com).
