@@ -55,13 +55,15 @@ let speedLimit = prompt("What speed are you going?");
 
 let message;
 
-if (speedLimit > 60){
-  message = "You are speeding!"
+if (speedLimit < 40){
+  message = "You need to speed up!"
 } 
-else { (speedLimit < 60);
+else if(speedLimit > 60){ 
+  message = "You are speeding!"
+}
+else {
   message = "You are driving fine!"
 }
-
 document.write(message);
 ```
   
