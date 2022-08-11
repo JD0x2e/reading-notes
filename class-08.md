@@ -78,19 +78,33 @@ for (let step = 0; step < 5; step++) {
 
 A *for* loop repeats until the specified condition evaluates to false. It has 3 optional expressions.
 
-Expression 1 - executed (one time) before the execution of the code block.
-Expression 2 - defines the condition for executing the code block.
-Expression 3 - executed (every time) after the code block has been executed.
+Initialisation - This sets the starting value.
+Condition - This is what has to be met to continue with the loop.
+Iteration - What we are going to change in the condition.
 
 Example of a for loop:
 ```js
-for (let i = 0; i < 5; i++) {
-  text += "The number is " + i + "<br>";
+for (let i = 0; i <= 10; i++) {
+  console.log(i);
 }
 ```
 
+[Diagram for a for loop](https://files.slack.com/files-pri/T037AFFRC1E-F03TNMHS7L1/screenshot_2022-08-11_at_14.54.16.png)
 
+[2nd Diagram for a for loop](https://app.slack.com/client/T037AFFRC1E/C03RH9GFK9V)
 
+# While Loops
+
+```js
+let count = 1;
+while(count <= 10) {
+  console.log(count)
+  count = count + 1;
+}
+ // While count is less than or equal to 10, it will repeat.
+ // Initialisation, condition, iteration.
+```
+[Diagram for while loop](https://files.slack.com/files-pri/T037AFFRC1E-F03T9V6MLKV/screenshot_2022-08-11_at_14.54.11.png)
 
 
 
