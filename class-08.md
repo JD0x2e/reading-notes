@@ -106,10 +106,16 @@ while(count <= 10) {
 ```
 [Diagram for while loop](https://files.slack.com/files-pri/T037AFFRC1E-F03T9V6MLKV/screenshot_2022-08-11_at_14.54.11.png)
 
-
-
-
-
+```js
+function rating() {
+  let output = "";
+  let rating = prompt("Please rate my questions out of 5");
+  
+  for (let i = 0; i < rating; i++) {
+    output += <img src='' alt='' class=''/>";
+  }
+  return document.write(output);
+```
 
 
 
