@@ -37,3 +37,37 @@ let myVariable = 10;
 ### What is a variable?
   
 A variable is a container which stores a value. You can declare it by using the keyword 'let'. This value can be changed later down the line if you need it to be. You must also put a semicolon ; at the end of the line as this indicates that the statement has ended. We **need** variables to be able to do anything remotely cool in coding. If they can't change, then we can't do anything dynamic, e.g change an image displayed in a gallery.
+
+  
+## Introduction to HTML
+A HTML attribute contains extra info about the element which will not appear in the content. For example, you could have a class on your element so you can later refer to it on your CSS sheet.
+  
+Example:
+![HTML Attribute](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started/grumpy-cat-attribute-small.png)
+  
+Requirements are:
+1. You need a space between the attribute and the element name
+2. It needs to be followed by an equal sign.
+3. Needs a value, wrapped with quotation marks.
+
+Anatomy of a HTML Element, it goes as follows:
+- Opening tag at the startm e.g <p>
+- Content in the middle, the text from the paragraph for example
+- Closing tag at the end, e.g </p>
+ 
+An <article> tag defines a certain section in a document, whereas, <section> tag specifies independent content on its own.
+  
+A typical layout of a webpage would include (not limited to) tags, such as
+  
+- Header
+- Navigation Bar
+- Main 
+- Body
+- Footer
+- Sidebar
+   
+Metadata is the data which describes the data. The <meta> element is a way to incorporate metadata into a HTML document. This will be at the top of your index.html file.
+  
+Using metadata boosts up the SEO because it's written in the language which the search engine understands. It helps to better understand the specific topic and content. It also displays more relevant searches.
+  
+##
