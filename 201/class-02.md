@@ -20,10 +20,81 @@ In total there at 6 levels of headings in HTML, these are:
 Superscript (sup) and Subscript (sub) are two elements in HTML which are used when marking up dates, chemical formulae and mathematical equations so they show the correct meaning.
 
 Example:
+[Superscript & Subscript Example](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting#superscript_and_subscript)
+
+## Abbr Element (Abbreviation)
+
+'Abbreviation' element is used to wrap around an an abbreviation or acronym. When including this in your HTML, you should provide a full expansion of the text, along with the 'abbr' element to mark it up.
+If providing the expansion in addition to the abbreviation doesn't make sense to do, and the abbreviation/acronym is a shortened term, provide the full expansion of the term as the value of title attribute instead.
+
+## Learn CSS
+
+There a 3 ways to apply CSS to a HTML document. External CSS, Internal CSS, and Inline CSS.
+
+- **External CSS**, you have a seperate CSS stylesheet and you link your HTML document to this by using the 'link' element.
 ```
-<p>My birthday is on the 25<sup>th</sup> of May 2001.</p>
-<p>Caffeine's chemical formula is C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>.</p>
-<p>If x<sup>2</sup> is 9, x must equal 3 or -3.</p>
+<link rel="stylesheet" href="styles.css">
 ```
-Which will produce this:
-![Superscript, Subscript Example](<img width="784" alt="Screenshot 2022-08-16 at 09 50 21" src="https://user-images.githubusercontent.com/103535732/184838704-61d030b4-912f-4c50-8978-5d9a110af50d.png">)
+- **Internal CSS**, you can put 'style' elements in the head of your HTML document and then write all your CSS in there.
+```
+<style>
+      h1 {
+        color: blue;
+        background-color: yellow;
+        border: 1px solid black;
+      }
+
+      p {
+        color: red;
+      }
+    </style>
+```
+
+- **Inline Styles CSS**, you can put a style element on a single line of code, but this is far from efficient.
+```
+<h1 style="color: blue;background-color: yellow;border: 1px solid black;">Hello World!</h1>
+```
+We should avoid using inline styles as much as possible due to its inefficieny for maintenance. If you change one style, it could mess up the rest of the page and will require more changes later to match. Secondly, it also mixes us the CSS/HTML code and makes it much harder to read and understand, this is why it is best to keep it seperate.
+
+## Review
+```
+   h2 {
+     color: black;
+     padding: 5px;
+   }
+```
+Here is an example code block and I will explain what each part means: 
+
+'h2' - This is the selector, the first part of the CSS rule. This tells the browser which element to apply the styles onto.
+
+'color' & 'padding' - These are the properties, which identify the stylistic features you want to make changes to.
+
+'black' & '5px' - These are the values, black is the color which we want to change to and 5px is the amount of pixels we want to add of padding.
+
+When a property is paired with a value, we call this a *declaration*.
+
+## Learn JS
+
+A sequence of text which is enclosed with single quote marks is a data type called a 'String'.
+
+Example:
+```
+let myVariable = 'Bob';
+```
+
+### JavaScript Operators
+
+1. Addition +
+2. Subtraction -
+3. Multiplication *
+4. Division /
+5. Assignment =
+6. Strict Equality ===
+7. Not/Does Not equal !/!==
+
+Functions - A real world problem which you could solve with functions would be if I wanted to multiply repeated number entries, I could just write out the function and whenever I have 2x numbers I need to multiply together, I can just invoke (call) the function as to save writing more code.
+
+
+
+
+
