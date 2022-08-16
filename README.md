@@ -28,8 +28,7 @@ It will get expanded further as I learn more.
 My contact info:
 
 Email - jackdoy99@icloud.com
-Discord - @JD0x2e
-Telegram - @JD0x2e
+
 ```
 
 
