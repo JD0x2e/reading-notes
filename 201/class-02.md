@@ -94,7 +94,28 @@ let myVariable = 'Bob';
 
 Functions - A real world problem which you could solve with functions would be if I wanted to multiply repeated number entries, I could just write out the function and whenever I have 2x numbers I need to multiply together, I can just invoke (call) the function as to save writing more code.
 
+### If else conditional statements
 
+An if statement, checks a condition, and if it evaluates to true, then a code block will execute.
 
+An else if statement, this is a way to add an extra choice/outcome to the if/else statement. This will be added inbetween the if and else statements and will be tested if the if statement values as false.
+
+An else statement will be executed if the same condition as the if statement, evaluates to false.
+
+### Comparison Operators
+
+=== and !== — test if one value is identical to, or not identical to, another.
+
+< and > — test if one value is less than or greater than another.
+
+<= and >= — test if one value is less than or equal to, or greater than or equal to, another.
+
+(Taken the above example from [MDN Docs on Comparison Operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals#if...else_statements)
+
+### Logical Operators
+
+&& - This represents 'AND'; this allows you to chain together two or more expressions so that they both have to evaluate to true for the expression to be true.
+
+|| - This represents 'OR'; this allows you to chain together two or more expressions so that one or more of them has to evaluate to atleast true, for the expression to be true
 
 
