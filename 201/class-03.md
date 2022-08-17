@@ -35,3 +35,67 @@ To change the starting number on your list to start at 5 for example, you can ad
 
 ### The Box Model
 
+In CSS, we have something called the Box Model, everything in CSS has a box around it. You can
+change the values of margin, padding, border and it will move it around and change the size.
+
+- Content; This is where the content in the box is displayed, you can use width or height properties.
+- Padding; The padding is around the content as white space, you can use the 'padding' property to change the values.
+- Border; The border box wraps the content and the padding of the box. Changed by the 'border' property.
+- Margin; The margin is the layer on the outside, it wraps all three of the above as whitespace, you can use the 'margin' property.
+
+![Box Model](BoxmodelCSS.png)
+
+## Learn JS
+
+### Arrays 
+
+Arrays are described as 'list-like objects', it is a single object which can contain multiple values stored in a list. You can do lots of different things with arrays, you can access each item in an array seperately and be efficient with the data such as, looping through it.
+
+In an array, you can store many data types, such as;
+
+- Numbers
+- Strings
+- Booleans
+- Functions
+- Objects
+- An even other arrays
+
+This is a valid example of an array;
+
+`const people = [['pete', 32, 'librarian', null], ['Smith', 40, 'accountant', 'fishing:hiking:rock_climbing'], ['bill', null, 'artist', null]];`
+
+Each section in a [] is a part of the array, for example, if I wanted to access the first section  which is `['pete', 32, 'librarian', null]`, you could type;
+
+```js
+const people = [
+  ["pete", 32, "librarian", null],
+  ["Smith", 40, "accountant", "fishing:hiking:rock_climbing"],
+  ["bill", null, "artist", null],
+];
+console.log(people[0]);
+// This will return - (4) ['pete', 32, 'librarian', null]
+```
+The [0] represents the first section as computers start counting from zero.
+
+### Assignment Operators
+
+1. Addition assignment (+=); This operator adds the value of the right operand to a variable and assigns the result to that variable.
+2. Subtraction assignment (-=); This operator subtracts the value of the right operand and assigns the result to the variable.
+3. Logical AND assignment (&&=); `a &&= b` This operator only assigns if a is Truthy.
+4. Logical OR assignemnt (||=); `a ||= b` This operator only assigns if a is Falsy.
+5. Remainder assignment (%=); This operator divides a variable by the value of the right operand and assigns the remainder to that chosen variable.
+
+
+
+
+
+
+
+A real world example of a conditional statement would be, if you ate dinner and pudding, the resulting outcome of the first choice could be 'still feeling hungry so I need pudding, and the second outcome could maybe be, 'ate dinner and pudding, now I feel really full'.
+
+Loops in JavaScript are incredibly useful. They can run blocks of code over and over again, often the code will be ever so slightly different each time it runs, or it can run the same code but with different variables. An example of when a loop would be useful is if you need to display some text/numbers more than once on a screen.
+
+
+
+
+
