@@ -90,15 +90,22 @@ Shift() - removes from start of array
 4. Logical OR assignemnt (||=); `a ||= b` This operator only assigns if a is Falsy.
 5. Remainder assignment (%=); This operator divides a variable by the value of the right operand and assigns the remainder to that chosen variable.
 
-
-
-
-
-
-
 A real world example of a conditional statement would be, if you ate dinner and pudding, the resulting outcome of the first choice could be 'still feeling hungry so I need pudding, and the second outcome could maybe be, 'ate dinner and pudding, now I feel really full'.
 
 Loops in JavaScript are incredibly useful. They can run blocks of code over and over again, often the code will be ever so slightly different each time it runs, or it can run the same code but with different variables. An example of when a loop would be useful is if you need to display some text/numbers more than once on a screen.
+
+Example;
+
+```js
+let a = 10;
+let b = 'dog';
+let c = false;
+
+// evaluate this
+(a + c) + b;
+```
+So, first we would add (a + c) which would equal = 10 as false is nothing, next we would add 10 + 'dog', which would equal '10dog' as it would change the number into a string.
+
 
 
 
