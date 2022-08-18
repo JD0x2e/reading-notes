@@ -77,6 +77,11 @@ console.log(people[0]);
 ```
 The [0] represents the first section as computers start counting from zero.
 
+Push() - adds to end of array
+Pop() - removes from end of array
+Unshift() - adds to start of array
+Shift() - removes from start of array
+
 ### Assignment Operators
 
 1. Addition assignment (+=); This operator adds the value of the right operand to a variable and assigns the result to that variable.
