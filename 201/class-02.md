@@ -118,4 +118,6 @@ An else statement will be executed if the same condition as the if statement, ev
 
 || - This represents 'OR'; this allows you to chain together two or more expressions so that one or more of them has to evaluate to atleast true, for the expression to be true
 
+! - This represents 'NOT' 
+
 
