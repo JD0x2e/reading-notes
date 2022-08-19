@@ -85,6 +85,25 @@ Unshift() - adds to start of array
 
 Shift() - removes from start of array
 
+```js
+let arr = ["a", 2, false, {}, "I am last"];
+
+for(let i = 0; i < arr.length; i++) {
+  console.log(arr[i])
+  }
+```
+This will produce;
+
+a
+
+2
+
+false
+
+{}
+
+I am last
+
 ### Assignment Operators
 
 1. Addition assignment (+=); This operator adds the value of the right operand to a variable and assigns the result to that variable.
