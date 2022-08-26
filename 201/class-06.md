@@ -14,7 +14,7 @@ const person = {}
 
 *What are some advantages to creating object literals?*
 
-A reason why you would use an object literal is because it shortens the syntax, allows us to create plain javascript objects and sending a single object is much more efficient than sending several items individually, plus its easier to work with, compared to an array.
+Basically, an object literal is literally just an object, but it is cleaner formatted. A reason why you would use an object literal is because it shortens the syntax, allows us to create plain javascript objects and sending a single object is much more efficient than sending several items individually, plus its easier to work with, compared to an array.
 
 *How do objects differ from arrays?*
 
