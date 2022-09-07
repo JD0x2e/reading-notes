@@ -76,6 +76,18 @@ Now we create the chart by adding some script tags, which contain information in
 </script>
 ```
 
+## Easily create stunning animated charts with chart.js
+
+*What are some advantages to displaying data via a chart over a table?*
+
+With a chart you are able to see the data much easier as its laid out clear and with different colours, whereas a table can get quite bunched up and hard to differentiate the data. Its easier to look at and convert the data quickly.
+
+*How could Chart.js aid your previously created applications visually?*
+
+A chart is a great way to visualise the data, its much easier to see rather than just having it all laid out in lines. On my previous project of picking different projects, I have then added a chart to lay out the most viewed and most clicked products on the page. It has different color bars also.
+
+
+
 
  
  
