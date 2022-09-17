@@ -20,5 +20,12 @@ You need to be very cautious when using certain properties, such as 'reverse' or
 
 *What are some advantages of using flexbox over float?*
 
-Flexbox is responsive and mobile-friendly. The margins don't collapse with the margins of its content either. You can also 
+Flexbox is responsive and mobile-friendly. The margins don't collapse with the margins of its content either. You can also change the order of the elements on our webpage without making any changes in our HTML document. 
+
+![image](https://user-images.githubusercontent.com/103535732/190846551-151b1bb1-d1bc-4ab1-ba1c-3f0de4f6b230.png)
+
+*How does this topic connect with your long term goals?*
+
+Flex is used widely for lots of different tasks. It's vital to be able to use the flex property well as you will use it so often in your career of coding. It can be used to do multiple diffent layout tasks and it is so flexible (hehe). It is a must when designing websites or apps.
+
 
