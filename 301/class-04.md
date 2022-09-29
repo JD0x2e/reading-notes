@@ -38,4 +38,4 @@ if (condition) {
  }
  ```
 
-This could also be written as: ``` x === y ? true : false;```
+This could also be written as: ``` x === y ? console.log(true) : console.log(false);```
