@@ -26,6 +26,24 @@ A URI should represent a data object on the internet. It must be unique so its a
 
 *6. Give an example of a good URI.*
 
+When possible, resource URIs should be based on nouns (the resource) and not verbs (the operations on the resource).
+
+https://adventure-works.com/orders // Good
+
+https://adventure-works.com/create-order // Avoid
+
+*7. What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?*
+
+All web requests impose a load on the web server. The more requests, the bigger the load.
+
+*8. What status code does a successful GET request return?*
+
+A successful GET method typically returns HTTP status code 200 (OK).
+
+*9. 
+
+
+
 
 
 
